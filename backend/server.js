@@ -18,7 +18,7 @@ app.get('/api/garderie', (req, res) => {
     adresse: 'Tunisie',
     horaires: 'Du lundi au vendredi, de 7h30 à 18h00',
     telephone: '+216 55 789 210',
-    email: 'contact@petitsexplorateurs.tn'
+    email: 'contact@petitscalinos.tn'
   });
 });
 
