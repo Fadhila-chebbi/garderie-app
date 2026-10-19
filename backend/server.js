@@ -12,7 +12,7 @@ app.use(express.json());
 // GET /api/garderie
 app.get('/api/garderie', (req, res) => {
   res.json({
-    nom: 'Les Petits Explorateurs',
+    nom: 'Les Petits calinos',
     description:
       'Une garderie chaleureuse et sécurisée pour accompagner les enfants dans leur développement.',
     adresse: 'Tunisie',
